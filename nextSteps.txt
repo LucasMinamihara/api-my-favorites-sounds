@@ -1,0 +1,2 @@
+Create and connect to a database
+Create random playlist on database and filter than with mongoose orm
